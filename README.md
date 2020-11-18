@@ -2,8 +2,8 @@
 
 
 
--First_Excercise is the first file containing the excercises without the given questions.
+-First Exercise is the first file containing the exercises without the given questions.
 
--First_Questions is the file containing the questions i were assigned. 
+-First Questions is the file containing the questions i was assigned. 
 
 The questions and answers are in greek
