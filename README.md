@@ -6,8 +6,4 @@
 
 -First_Questions is the file containing the questions i were assigned. 
 
--Second_Excercise is the second file containing the excercises without the given questions.
-
--Second_Questions is the file containing the questions i were assigned 
-
 The questions and answers are in greek
